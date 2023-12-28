@@ -1,5 +1,5 @@
 # Zombie Survive Game (Unity)
-
+![image](https://github.com/yuzy1022/Zombie-Survive-Game/assets/112682861/916b83ba-510d-4902-96d9-0916ee406c5a)  
 <a href="https://www.hanbit.co.kr/store/books/look.php?p_code=B3604463061">레트로의 유니티 게임 프로그래밍 에센스</a> 교재에 나온 예제를 토대로 저만의 컨텐츠를 추가하여 만든 게임 프로젝트 입니다.  
 <a href="https://github.com/IJEMIN/Unity-Programming-Essence-2021">예제 깃허브</a>
 
