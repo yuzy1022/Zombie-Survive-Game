@@ -12,7 +12,7 @@ Unity (v2020.3.30f1), C#
 
 ------
 
-# 주요 컨텐츠 및 게임 설명
+# 추가 컨텐츠 및 게임 설명
 <a href="https://github.com/yuzy1022/Zombie-Survive-Game/wiki#%EC%A7%84%ED%96%89-%EB%B0%A9%EC%8B%9D">게임 진행 방식</a>  
 <a href="https://github.com/yuzy1022/Zombie-Survive-Game/wiki#%EC%A1%B0%EC%9E%91-%EB%B0%A9%EB%B2%95">조작 방법</a>  
 <a href="https://github.com/yuzy1022/Zombie-Survive-Game/wiki#%EC%B4%9D%EA%B8%B0">총기</a>  
